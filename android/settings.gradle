@@ -1,0 +1,3 @@
+rootProject.name = 'progsp'
+
+include ':app'
